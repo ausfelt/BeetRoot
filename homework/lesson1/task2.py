@@ -10,14 +10,14 @@ b = "there"
 
 print(a,b)
 
-c= ", I"
-d= "love"
+c = ", I"
+d = "love"
 e = "big"
 f = "cakes"
 
 
 g = "and my passion is"
-r= "horses"
+r = "horses"
 
 
 # Hello there , I love big 
