@@ -10,7 +10,7 @@ b = "there"
 
 print(a,b)
 
-c = ", I"
+c = ", I "
 d = "love"
 e = "big"
 f = "cakes"
