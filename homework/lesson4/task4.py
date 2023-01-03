@@ -2,7 +2,7 @@
 
 answer = input("3 * 3 = ")
 
-if answer == '9':
+if answer == "9":
     print("You are correct! Have a cookie :)")
 else:
     print("Wrong! You should know this :(")
