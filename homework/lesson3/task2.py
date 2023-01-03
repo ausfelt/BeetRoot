@@ -8,7 +8,7 @@ is only 10 characters long. Print a suitable message depending on the outcome of
 phone_number = input("Please put a valid phone number here: ")
 
 if phone_number.isnumeric() is True and len(phone_number) == 10:
-   print("This could be a valid number")
+   print("This is a valid number")
 
 elif phone_number.isnumeric() is True and len(phone_number) < 10:
     print("This number is too short")
