@@ -1,4 +1,5 @@
 #This program will take your input and print 5 different, shuffeled, versions of your input.
+#Anagrams
 
 from random import sample
 the_input = input("Write whatever you want, preferably a word with 5 letters: ")
