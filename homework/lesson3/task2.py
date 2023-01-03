@@ -7,20 +7,20 @@ is only 10 characters long. Print a suitable message depending on the outcome of
 
 phone_number = input("Please put a valid phone number here: ")
 
-if phone_number.isnumeric() is True and len(phone_number) == 10:
+if phone_number.isnumeric() and len(phone_number) == 10:
    print("This is a valid number")
 
-elif phone_number.isnumeric() is True and len(phone_number) < 10:
+elif phone_number.isnumeric() and len(phone_number) < 10:
     print("This number is too short")
 
-elif phone_number.isnumeric() is True and len(phone_number) > 10:
+elif phone_number.isnumeric() and len(phone_number) > 10:
     print("You have entered to many digits")
 
 # This is the easy
 
 phone_number = input("Please put a valid phone number here: ")
 
-if phone_number.isnumeric() is True and len(phone_number) == 10:
+if phone_number.isnumeric() and len(phone_number) == 10:
     print("This is a valid number")
 else:
     print("This is not a valid number")
