@@ -1,0 +1,19 @@
+body {
+  color: wheat;
+}
+
+h1 {
+  color: green;
+}
+
+p1 {
+    color: black;
+}
+
+html {
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images6/Cute-Plain-Backgrounds-HD.jpg);
+    min-height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
